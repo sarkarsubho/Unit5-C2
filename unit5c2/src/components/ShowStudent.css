@@ -1,0 +1,14 @@
+.controls{
+    display: flex;
+    margin: 30px;
+}
+
+.tbody{
+    border-width: 1px ;
+}
+.show{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    }
