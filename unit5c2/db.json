@@ -131,6 +131,17 @@
       "twelth_score": "123",
       "preferred_branch": "acting",
       "id": 12
+    },
+    {
+      "first_name": "Subhankar",
+      "last_name": "Sarkar",
+      "email": "Srsaby@gmail.com",
+      "gender": "male",
+      "age": "2",
+      "tenth_score": "2",
+      "twelth_score": "2",
+      "preferred_branch": "arts",
+      "id": 13
     }
   ]
 }
